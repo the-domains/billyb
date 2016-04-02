@@ -1,0 +1,28 @@
+name: billyb
+favicon: null
+layout_spectrum: 0.45871823630295694
+typography_spectrum: 0.7817920790985227
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6927606661338359
+  lightness: 0.4799686537589878
+  saturation: 0.9633188729640096
+  rhythmicContrast: 0.753257125383243
+purpose: []
