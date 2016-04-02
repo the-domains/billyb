@@ -1,6 +1,6 @@
 name: billyb
 favicon: null
-layout_spectrum: 0.74669
+layout_spectrum: 0.2577
 typography_spectrum: 0.7817920790985227
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#050503'
-    - '#365128'
-    - '#4d7540'
-    - '#92d94e'
-    - '#6b9754'
-  brandStrength: 0
+    - '#030303'
+    - '#b4afab'
+    - '#d6dde7'
+    - '#557792'
+    - '#0d5ead'
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
