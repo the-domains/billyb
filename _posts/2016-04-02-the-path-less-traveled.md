@@ -6,22 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: "The path less traveled.\_"
-datePublished: '2016-04-02T17:13:54.252Z'
-dateModified: '2016-04-02T17:12:38.433Z'
+datePublished: '2016-04-02T18:13:16.156Z'
+dateModified: '2016-04-02T18:07:52.709Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-02-the-path-less-traveled.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-02-the-path-less-traveled.md
-published: true
 url: the-path-less-traveled/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6499fc55-74d3-404c-b515-9ebe174b5dba.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ef43a6cde448a8b41b36667a4e088f1014527f5.jpg)
 
 The path less traveled.
