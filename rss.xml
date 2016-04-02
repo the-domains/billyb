@@ -4,7 +4,7 @@
         <description><![CDATA[billyb]]></description>
         <link>https://thegrid.ai/billyb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 18:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 18:13:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/billyb/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -29,10 +29,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6499fc55-74d3-404c-b515-9ebe174b5dba.jpg">]]></description>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ef43a6cde448a8b41b36667a4e088f1014527f5.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/billyb/the-path-less-traveled/index.html</link>
             <guid isPermaLink="false">1548921c-efb9-4f95-b5cd-53b70737e268</guid>
-            <pubDate>Sat, 02 Apr 2016 17:13:54 GMT</pubDate>
+            <pubDate>Sat, 02 Apr 2016 18:13:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
