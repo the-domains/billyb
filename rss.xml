@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[billyb]]></title>
         <description><![CDATA[billyb]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/billyb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 17:14:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 17:25:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/billyb/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f87cab78-4599-4200-80d0-784e9238f503.jpg">]]></description>
+            <link>https://thegrid.ai/billyb/63a7c9c6-cd2e-4780-945f-1858caf46ebd/index.html</link>
+            <guid isPermaLink="false">63a7c9c6-cd2e-4780-945f-1858caf46ebd</guid>
+            <pubDate>Sat, 02 Apr 2016 17:25:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6499fc55-74d3-404c-b515-9ebe174b5dba.jpg">]]></description>
-            <link>undefinedthe-path-less-traveled/index.html</link>
+            <link>https://thegrid.ai/billyb/the-path-less-traveled/index.html</link>
             <guid isPermaLink="false">1548921c-efb9-4f95-b5cd-53b70737e268</guid>
             <pubDate>Sat, 02 Apr 2016 17:13:54 GMT</pubDate>
         </item>
