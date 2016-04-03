@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Old cabins.
-datePublished: '2016-04-03T15:46:04.041Z'
-dateModified: '2016-04-03T15:45:57.924Z'
+description: Old Cabins
+datePublished: '2016-04-03T16:07:34.434Z'
+dateModified: '2016-04-03T16:04:29.772Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-02-old-cabins.md
@@ -22,6 +22,6 @@ url: old-cabins/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89c27ad0-6038-46f5-8c67-b844189227a5.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c425be62a32d5fc4f5b48b6ec563c6c08d19b6b.jpg)
 
 Old Cabins
